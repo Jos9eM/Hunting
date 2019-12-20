@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDE1F8</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="pink">#f4bdc1</color>
+    <color name="black">#343133</color>
+    <color name="blue">#24afbe</color>
+    <color name="dark_pink">#e464a1</color>
+
+    <color name="darkBlue">#3023AE</color>
+    <color name="purple">#C86DD7</color>
+
+    <color name="loginDetails">#CCFFFFFF</color>
+    <color name="loginDetailsLig">#1AFFFFFF</color>
+    <color name="loginDetailsMed">#66FFFFFF</color>
+
+    <color name="grey">#565656</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

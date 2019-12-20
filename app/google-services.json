@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "130400706581",
+    "firebase_url": "https://wext-e7484.firebaseio.com",
+    "project_id": "wext-e7484",
+    "storage_bucket": "wext-e7484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130400706581:android:0575b4bb8dea103f88ae1c",
+        "android_client_info": {
+          "package_name": "com.wext.hunting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130400706581-hv2rc9gh06akg2j40mba8fskj45l6red.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wext.hunting",
+            "certificate_hash": "290f0063a1a94c93bbd2d4f32bd44ae32896941b"
+          }
+        },
+        {
+          "client_id": "130400706581-bdsnp4b41g5ioc7rf59qr79vj6ehckof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wext.hunting",
+            "certificate_hash": "a6ee0319dc5da0c1c2919889b54e6b940036f833"
+          }
+        },
+        {
+          "client_id": "130400706581-vvqlvn6mvglllkl69qggq6b8l6lofjus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleGiMuvyV0GoyfbeKr3BJ5F7znvk2MXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130400706581-vvqlvn6mvglllkl69qggq6b8l6lofjus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130400706581-b8475d3hshh69qvl77i7q6vmqim1gv3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wextapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130400706581:android:7ef11b5af98a51c488ae1c",
+        "android_client_info": {
+          "package_name": "com.wextapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130400706581-vvqlvn6mvglllkl69qggq6b8l6lofjus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleGiMuvyV0GoyfbeKr3BJ5F7znvk2MXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130400706581-vvqlvn6mvglllkl69qggq6b8l6lofjus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130400706581-b8475d3hshh69qvl77i7q6vmqim1gv3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wextapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@color/pink">
+        <shape>
+            <stroke android:color="@color/loginDetails"
+                android:width="2dp"/>
+            <corners android:radius="2dp"/>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@color/pink">
+        <shape>
+            <stroke android:color="@color/loginDetailsLig"
+                android:width="2dp"/>
+            <corners android:radius="2dp"/>
+        </shape>
+    </item>
+</selector>
